@@ -16,9 +16,11 @@ File Formats
 
 The top-level directory contains the following files; 
 
-* LICENCE.md - a file detailing the licensing of data included in the IPD-MHC Database.
+* LICENCE.md - a file detailing the licensing of data included in the IPD-NHKIR Database.
 * README.md - This README file
-* NHKIR.dat - An EMBL-ENA style format file containing data from the IPD-MHC Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details.
+* NHKIR.xml - An XML format file containing data from the IPD-NHKIR Database.
+* NHKIR.dat - An EMBL-ENA style format file containing data from the IPD-NHKIR Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details.
+* NHKIR_gen.fasta - a copy of the file in the fasta directory, includes the DNA sequence for all alleles, which have genomic sequences available.
 * NHKIR_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 
 * NHKIR_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
 
