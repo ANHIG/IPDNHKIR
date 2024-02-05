@@ -1,95 +1,1205 @@
-Mafa-KIR3DSW20*002    ATGTCGCTCATGGTCGTCAGCGTGGTGTGTGTTGGGTTCTTCTTGGTCCAGAGGACTTGT    60
-Mafa-KIR3DSW20*001    ATGTCGCTCATGGTCGTCAGCGTGGTGTGTGTTGGGTTCTTCTTGGTCCAGAGGACTTGT    60
-Mafa-KIR3DSW20*003    ATGTCGCTCATGGTCGTCAGCGTGGTGTGTGTTGGGTTCTTCTTGGTCCAGAGGACTTGT    60
-Mafa-KIR3DSW20*004    ATGTCGCTCATGGTCGTCAGCGTGGTGTGTGTTGGGTTCTTCTTGGTCCAGAGGACTTGT    60
+Mafa-KIR3DSW20*002    ATGTCGCTCATGGTCGTCAGCGTGGTGTGTGTTG--------------------------    60
+Mafa-KIR3DSW20*001:01:01ATGTCGCTCATGGTCGTCAGCGTGGTGTGTGTTGGTGAGTCCTGGAAGGGAATCGGGGGA    60
+Mafa-KIR3DSW20*003    ATGTCGCTCATGGTCGTCAGCGTGGTGTGTGTTG--------------------------    60
+Mafa-KIR3DSW20*004    ATGTCGCTCATGGTCGTCAGCGTGGTGTGTGTTG--------------------------    60
 
-Mafa-KIR3DSW20*002    CCATACACGGGTGGTCAGGACAAGACCTTCCTATCTGTCCAGCCCAGCGCTCTGGTGCCT   120
-Mafa-KIR3DSW20*001    CCATACACGGGTGGTCAGGACAAGACCTTCCTATCTGTCCAGCCCAGCGCTCTGGTGCCT   120
-Mafa-KIR3DSW20*003    CCATACACGGGTGGTCAGGACAAGACCTTCCTATCTGTCCAGCCCAGCGCTCTGGTGCCT   120
-Mafa-KIR3DSW20*004    CCATACACGGGTGGTCAGGACAAGACCTTCCTATCTGTCCAGCCCAGCGCTCTGGTGCCT   120
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   120
+Mafa-KIR3DSW20*001:01:01GGAAGCACTGTGTTGGAGATCTGGGCCTGGAGGGGAGATCTGGACCTGGAGGTTGAGTTA   120
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   120
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   120
 
-Mafa-KIR3DSW20*002    CAGGGAGGACACGTAACTCTTCGGTGTTACTATCGTCGTGGGTTTAACAACTTTACCAAC   180
-Mafa-KIR3DSW20*001    CAGGGAGGACACGTAACTCTTCGGTGTTACTATCGTCGTGGGTTTAACAACTTTACCAAC   180
-Mafa-KIR3DSW20*003    CAGGGAGGACACGTAACTCTTCGGTGTTACTATCGTCGTGGGTTTAACAACTTTACCAAC   180
-Mafa-KIR3DSW20*004    CAGGGAGGACACGTAACTCTTCGGTGTTACTATCGTCGTGGGTTTAACAACTTTACCAAC   180
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   180
+Mafa-KIR3DSW20*001:01:01TGGGCCTGGAGTGGAGATATGATCCTGGAGTGGAGATCTGGGCCTGGAGTGGAGATATGG   180
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   180
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   180
 
-Mafa-KIR3DSW20*002    TTCACTCTGTACAAAGACGACAGAAGCCACGTTCCCATCTTCCACAACAGAATATTCCAG   240
-Mafa-KIR3DSW20*001    TTCACTCTGTACAAAGACGACAGAAGCCACGTTCCCATCTTCCACAACAGAATATTCCAG   240
-Mafa-KIR3DSW20*003    TTCACTCTGTACAAAGACGACAGAAGCCACGTTCCCATCTTCCACAACAGAATATTCCAG   240
-Mafa-KIR3DSW20*004    TTCACTCTGTACAAAGACGACAGAAGCCACGTTCCCATCTTCCACAACAGAATATTCCAG   240
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   240
+Mafa-KIR3DSW20*001:01:01GCCTGGGGTGGAGGTATGGGCCTGGAGTGGAGATCTGGGCCTGAAGTGGAGATATGGGCC   240
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   240
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   240
 
-Mafa-KIR3DSW20*002    CAGAGCTTCCTCATGGGCCCTGTGACCCCGGCAGACGCAGGGACCTACAGATGTCGGGGC   300
-Mafa-KIR3DSW20*001    CAGAGCTTCCTCATGGGCCCTGTGACCCCGGCAGACGCAGGGACCTACAGATGTCGGGGC   300
-Mafa-KIR3DSW20*003    CAGAGCTTCCTCATGGGCCCTGTGACCCCGGCACACGCAGGGACCTACAGATGTCGGGGC   300
-Mafa-KIR3DSW20*004    CAGAGCTTCCTCATGGGCCCTGTGACCCCGGCAGACGCAGGGACCTACAGATGTCGGGGC   300
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   300
+Mafa-KIR3DSW20*001:01:01TGGAGTGGAGATATGGGCCTGGGGTGGAGATATGGGCCTGGAGTGGAGATATGGGCCTGG   300
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   300
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   300
 
-Mafa-KIR3DSW20*002    TCATACCCGCACTCCCCCACTGAGTGGTCGGCACTCAGTGACCCCCTGGCGATCATGGTC   360
-Mafa-KIR3DSW20*001    TCATACCCGCACTCCCCCACTGAGTGGTCGGCACTCAGTGACCCCCTGGCGATCATGGTC   360
-Mafa-KIR3DSW20*003    TCATACCCGCACTCCCCCACTGAGTGGTCGGCACTCAGTGACCCCCTGGCGATCATGGTC   360
-Mafa-KIR3DSW20*004    TCATACCCGCACTCCCCCACTGAGTGGTCGGCACTCAGTGACCCCCTGGCGATCATGGTC   360
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   360
+Mafa-KIR3DSW20*001:01:01GGTGGAGATATGGGCCTGGAGTGGAGATATGGGCCTGGGGTGGAGATATGGGCCTGGAGT   360
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   360
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   360
 
-Mafa-KIR3DSW20*002    ACAGGAGTCCACAAAAAACCTTCCCTCCTGGCCCTCCGAGGTCCCCTGGTGAAATCAGGA   420
-Mafa-KIR3DSW20*001    ACAGGAGTCCACAAAAAACCTTCCCTCCTGGCCCTCCGAGGTCCCCTGGTGAAATCAGGA   420
-Mafa-KIR3DSW20*003    ACAGGAGTCCACAAAAAACCTTCCCTCCTGGCCCTCCGAGGTCCCCTGGTGAAATCAGGA   420
-Mafa-KIR3DSW20*004    ACAGGAGTCCACAAAAAACCTTCCCTCCTGGCCCTCCGAGGTCCCCTGGTGAAATCAGGA   420
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   420
+Mafa-KIR3DSW20*001:01:01GGAGATATGGGCCTGGGGTGGAGATATGGGCCTGGGGTGGAGATACGGGCATGGAGTGGA   420
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   420
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   420
 
-Mafa-KIR3DSW20*002    GAGACGGTCACCCTACAATGTTCTTCAGATATCGTGTTTGAGCACTTCTTTCTGCACAGT   480
-Mafa-KIR3DSW20*001    GAGACGGTCACCCTACAATGTTCTTCAGATATCGTGTTTGAGCACTTCTTTCTGCACAGT   480
-Mafa-KIR3DSW20*003    GAGACGGTCACCCTACAATGTTCTTCAGATATGGTGTTTGAGCACTTCTTTCTGCACAGT   480
-Mafa-KIR3DSW20*004    GAGACGGTCACCCTACAATGTTCTTCAGATATCGTGTTTGAGCACTTCTTTCTGCACAGT   480
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   480
+Mafa-KIR3DSW20*001:01:01GATACAGGTCTGGAGTGGAGATCTGGGCCTGGAGTGGAAATCTGGGCCTGGGGTAGAGAT   480
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   480
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   480
 
-Mafa-KIR3DSW20*002    GAGGTGACCTTTGAGAAGCCCTTGCACCTTGTTGGAGAGCTCCATGGTGGGGGTTCCCAG   540
-Mafa-KIR3DSW20*001    GAGGTGACCTTTGAGAAGCCCTTGCACCTTGTTGGAGAGCTCCATGGTGGGGGTTCCCAG   540
-Mafa-KIR3DSW20*003    GAGGTGACCTTTGAGAAGCCCTTGCACCTTGTTGGAGAGCTCCATGGTGGGGGTTCCCAG   540
-Mafa-KIR3DSW20*004    GAGGTGACCTTTGAGAAGCCCTTGCACCTTGTTGGAGAGCTCCATGGTGGGGGTTCCCAG   540
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   540
+Mafa-KIR3DSW20*001:01:01CTGGGCCTGGAGTGGAGATCTGGGCCTCGTGTGGAGATATGGGCCTGGGTTGGAGATAAG   540
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   540
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   540
 
-Mafa-KIR3DSW20*002    GCCAACTATTCCATCAATTCCACGACGTCTGACCTTGAAGAGACCTTCAGATGCTATGGT   600
-Mafa-KIR3DSW20*001    GCCAACTATTCCATCAATTCCACGACGTCTGACCTTGAAGAGACCTTCAGATGCTATGGT   600
-Mafa-KIR3DSW20*003    GCCAACTATTCCATCAATTCCACGACGTCTGACCTTGAAGAGACCTTCAGATGCTACGGT   600
-Mafa-KIR3DSW20*004    GCCAACTATTCCATCAATTCCACGACGTCTGACCTTGAAGAGACCTTCAGATGCTATGGT   600
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   600
+Mafa-KIR3DSW20*001:01:01GGCCTGGGATAGAGACATATGCTTGGCATGGAGGGATGGGCCTGGGGTGGAGATATGGGT   600
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   600
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   600
 
-Mafa-KIR3DSW20*002    TCTGTCACTCACTCCCCCTATGTGTTGTCAGCTCCCAGTGACCCCCTGAACATCGTGATC   660
-Mafa-KIR3DSW20*001    TCTGTCACTCACTCCCCCTATGTGTTGTCAGCTCCCAGTGACCCCCTGAACATCGTGATC   660
-Mafa-KIR3DSW20*003    TCTGTCACTCACTCCCCCTATGTGTTGTCAGCTCCCAGTGACCCCCTGAACATCGTGATC   660
-Mafa-KIR3DSW20*004    TCTGTCACTCACTCCCCCTATGTGTTGTCAGCTCCCAGTGACCCCCTGAACATCGTGATC   660
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   660
+Mafa-KIR3DSW20*001:01:01CTGGAGTGGAGATATGGGCCTGGGGTGGAGATCTGGGTCTGGCGTGGAGATATGGGCCTG   660
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   660
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   660
 
-Mafa-KIR3DSW20*002    ACAGGTAAATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCAGGCAGGA   720
-Mafa-KIR3DSW20*001    ACAGGTAAATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCAGGCAGGA   720
-Mafa-KIR3DSW20*003    ACAGGTAAATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCAGGCAGGA   720
-Mafa-KIR3DSW20*004    ACAGGTAAATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCAGGCAGGA   720
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   720
+Mafa-KIR3DSW20*001:01:01GAGTGGAGATATGGGCCTGGGGTGGAGATATGGGCCTGGAGTGGAGATCTGGGTCTGGAG   720
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   720
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   720
 
-Mafa-KIR3DSW20*002    GAGAACGTGACCTTGTCCTGCAGCTCCCAGATCTCGTTTGACATGTACCATCTATCCAGG   780
-Mafa-KIR3DSW20*001    GAGAACGTGACCTTGTCCTGCAGCTCCCAGATCTCGTTTGACATGTACCATCTATCCAGG   780
-Mafa-KIR3DSW20*003    GAGAACGTGACCTTGTCCTGCAGCTCCCAGATCTCGTTTGACATGTACCATCTATCCAGG   780
-Mafa-KIR3DSW20*004    GAGAACGTGACCTTGTCCTGCAGCTCCCAGATCTCGTTTGACATGTACCATCTATCCAGG   780
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   780
+Mafa-KIR3DSW20*001:01:01TGGAGATACAGGTCTGGAGTGGAGATCTGGGCCTGGAGTGGAGATATGGGCCTGGCATGG   780
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   780
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   780
 
-Mafa-KIR3DSW20*002    GAGGGGGAGGCTCGTGAACTTAGTCTCTCTGCAGTGCCAAGCGTCAATGGAACATTCCAG   840
-Mafa-KIR3DSW20*001    GAGGGGGAGGCCCGTGAACTTAGTCTCTCTGCAGTGCGAAGCGTCAACGGAACATTCCAG   840
-Mafa-KIR3DSW20*003    GAGGGGGAGGCTCGTGAACTTAGTCTCTCTGCAGTGCCAAGCGTCAATGGAACATTCCAG   840
-Mafa-KIR3DSW20*004    GAGGGGGAGGCCCGTGAACTTAGTCTCTCTGCAGTGCGAAGCGTCAACGGAACATTCCAG   840
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   840
+Mafa-KIR3DSW20*001:01:01AGGGATGGGCCTGGAGTGGAGATATGGGCCTGGCATGGAGGGATGGGCTTGGAGTGGAGA   840
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   840
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   840
 
-Mafa-KIR3DSW20*002    GCCGACTTCCCTCTGGGCCCTGCCACCCACGGAGGAACCTACAGATGCTTCGGTTCTTTC   900
-Mafa-KIR3DSW20*001    GGCGACTTCCCTCTGGGCCCTGCCACCCATGGAGGAACCTACAGATGCTTCGGTTCTTTC   900
-Mafa-KIR3DSW20*003    GCCGACTTCCCTCTGGGCCCTGCCACCCACGGAGGAACCTACAGATGCTTCGGTTCTTTC   900
-Mafa-KIR3DSW20*004    GGCGACTTCCCTCTGGGCCCTGCCACCCATGGAGGAACCTACAGATGCTTCGGTTCTTTC   900
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   900
+Mafa-KIR3DSW20*001:01:01TATGGGCCTGGAGTGGAGATACAGGTCTGGAGTGGAGATCTGGGCCTGGAGGGGAGATCT   900
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   900
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   900
 
-Mafa-KIR3DSW20*002    CGTACCACACCCTACAAGTGGTCAGACCCGAGTGACCCACTGCCCGTTTCTGTCACAGGA   960
-Mafa-KIR3DSW20*001    CGTACCGCACCCTACAAGTGGTCACACCCGAGTGACCCACTGCCCGTTTCTGTCACAGGA   960
-Mafa-KIR3DSW20*003    CGTACCATACCCTACAAGTGGTCAGACCCGAGTGACCCACTGCCCGTTTCTGTCACAGGA   960
-Mafa-KIR3DSW20*004    CGTACCGCACCCTACAAGTGGTCAGACCCGAGTGACCCACTGCCCGTTTCTGTCACAGGA   960
+Mafa-KIR3DSW20*002    ------------------------------------------------------------   960
+Mafa-KIR3DSW20*001:01:01GGTCCTGGAGGTTGAGTTACGGGCCTGGAGTGGAGATATGATCCTGGAGTGGAGATCTGG   960
+Mafa-KIR3DSW20*003    ------------------------------------------------------------   960
+Mafa-KIR3DSW20*004    ------------------------------------------------------------   960
 
-Mafa-KIR3DSW20*002    AACCCTTCAAGTAGTTGGCCTTCACCCACTGAACCAAGCTGCAAAACCAGTATCACCAGA  1020
-Mafa-KIR3DSW20*001    AACCCTTCAAGTAGTTGGCCTTCACCCACTGAACCAAGCTGCAAAACCGGTATCACCAGA  1020
-Mafa-KIR3DSW20*003    AACCCTTCAAGTAGTTGGCCTTCACCCACTGAACCAAGCTGCAAAACCAGTATCACCAGA  1020
-Mafa-KIR3DSW20*004    AACCCTTCAAGTAGTTGGCCTTCACCCACTGAACCAAGCTGCAAAACCGGTATCACCAGA  1020
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1020
+Mafa-KIR3DSW20*001:01:01GCCTGGAGTGAAGATATGCGCCTGGGGTGGAGATATGATCCTGGAGTGGAGATCTGGGCC  1020
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1020
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1020
 
-Mafa-KIR3DSW20*002    CACCTGCCTATTGTGATTAGGTACTCGGTGGCCACCATCATCTTCACCATCCTCCTCTTC  1080
-Mafa-KIR3DSW20*001    CACCTGCCTATTGTGATTAGGTACTCGGTGGCCACCATCATCTTCACCATCCTCCTCTTC  1080
-Mafa-KIR3DSW20*003    CACCTGCCTATTGTGATTAGGTACTCGGTGGCCACCATCATCTTCACCATCCTCCTCTTC  1080
-Mafa-KIR3DSW20*004    CACCTGCCTATTGTGATTAGGTACTCGGTGGCCACCATCATCTTCACCATCCTCCTCTTC  1080
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1080
+Mafa-KIR3DSW20*001:01:01TGGAGTGGAGATATGGGCCTGGGGTGGAGATATAGGCATGGAGTGGAGATATGGACCTGG  1080
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1080
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1080
 
-Mafa-KIR3DSW20*002    TTTCTCCTTCGTCGTTGGTGCTCCGACAAAAAGAGACTCTGA  1122
-Mafa-KIR3DSW20*001    TTTCTCCTTCATCGTTGGTGCTCCGACAAAAAGAGACCCTGA  1122
-Mafa-KIR3DSW20*003    TTTCTCCTTCGTCGTTGGTGCTCCGACAAAAAGAGACTCTGA  1122
-Mafa-KIR3DSW20*004    TTTCTCCTTCATCGTTGGTGCTCCGACAAAAAGAGACCCTGA  1122
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1140
+Mafa-KIR3DSW20*001:01:01GGTGGAGATATGATCCTGGAGGGGAGATCTGGGCCTGGAGTGGAGATATGATCCGGGAGT  1140
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1140
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1140
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1200
+Mafa-KIR3DSW20*001:01:01GGAGATATGATCCTGGAGGGAAGATCTGGGCCTGGAGTGGAGATATGATCCGGGAGTAGA  1200
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1200
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1200
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1260
+Mafa-KIR3DSW20*001:01:01GATATGATCCTGGAGGGGAGATCTGGGCCTGGAGGTTGAGTTATGGGCCTGGGGTGGAGA  1260
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1260
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1260
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1320
+Mafa-KIR3DSW20*001:01:01TATGGGCCTGGAGTGGAGATATGGGCCTGGGATAGAGACATGGGCCTGGCATGGAGGGAT  1320
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1320
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1320
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1380
+Mafa-KIR3DSW20*001:01:01GGGCCTGGAGTGGAGATATGGGCCTGGAGTGGAGATACAGGTCTGGAGGGGAGATATGAA  1380
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1380
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1380
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1440
+Mafa-KIR3DSW20*001:01:01CCAGGAGGGTAGATATGGGTTTGGAGTGGAGATGTGAGCCTGGAGTGCAGATATGAGCCT  1440
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1440
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1440
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1500
+Mafa-KIR3DSW20*001:01:01GGAGAGGAGATATGGGCCTGGGGTGGAGATATGAGCCTGGAGGGGAGATATGGGTTTGGA  1500
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1500
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1500
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1560
+Mafa-KIR3DSW20*001:01:01GCAGAAATATGGGCCTGGAGAGGAGATCCGGGCCTGGAGTGGAGATAGGAGCCTGGAGTG  1560
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1560
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1560
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1620
+Mafa-KIR3DSW20*001:01:01GAGATCCGGACCTGGAGTAGAGATATGACACTGGAGTGGAGATATGGGCCTGGAATGGAG  1620
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1620
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1620
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1680
+Mafa-KIR3DSW20*001:01:01ACATGGGCCTGGAATTGTGATATGAGCCTGGAGTGGAGATATGGGCCTGGATTGGAGATA  1680
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1680
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1680
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1740
+Mafa-KIR3DSW20*001:01:01TGGGCCTGGGGTGGAGATGGGATCCTGGAGTGGAGACATGAGCATGGAGAGGAGATATGA  1740
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1740
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1740
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1800
+Mafa-KIR3DSW20*001:01:01GCCTGGAGTGGAGACATGAGCCTGGAGTGGAGATAGGAGCCTGGAAAGGAGATATGGGTT  1800
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1800
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1800
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1860
+Mafa-KIR3DSW20*001:01:01TGGTGTGGAGATATGGGCCTGGAGTGAAGATATGGGCCTGGAGGGGAGATATGGCTCTGG  1860
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1860
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1860
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1920
+Mafa-KIR3DSW20*001:01:01AGGGGAGATATGAGCCTGGAGGGGAGATACGGGCCTGGAGGGGAGATATGGGCCTGGAGG  1920
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1920
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1920
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  1980
+Mafa-KIR3DSW20*001:01:01GGAGATATCAGCATGGAGTGGAGATATGGACCTGTTGTGTAGATCTAGGCCTGGGGTGCA  1980
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  1980
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  1980
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2040
+Mafa-KIR3DSW20*001:01:01GATCTGGATCAGGAGGCTGGGTCTCTGCACAGCTGAGATCCCTCCTGCCGGGGCAGGTAG  2040
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2040
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2040
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2100
+Mafa-KIR3DSW20*001:01:01GCAGCCAGGGTGAGTTTACCTTCAGCCCAGCAAGGGCCTGGCTGCCCAGATGCACAGCCC  2100
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2100
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2100
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2160
+Mafa-KIR3DSW20*001:01:01AGTGGGGGCAGCAGGGGAGGCCCTGGTTTGCCTGCAGATGGATCATCCATCATGATCTTT  2160
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2160
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2160
+
+Mafa-KIR3DSW20*002    --------GGTTCTTCTTGGTCCAGAGGACTTGTCCATACACGG----------------  2220
+Mafa-KIR3DSW20*001:01:01CTTTCCAGGGTTCTTCTTGGTCCAGAGGACTTGTCCATACACGGGTGAGTCCTTCCCCAA  2220
+Mafa-KIR3DSW20*003    --------GGTTCTTCTTGGTCCAGAGGACTTGTCCATACACGG----------------  2220
+Mafa-KIR3DSW20*004    --------GGTTCTTCTTGGTCCAGAGGACTTGTCCATACACGG----------------  2220
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2280
+Mafa-KIR3DSW20*001:01:01ACCTTAGGGTGTCATCTCCTCACCTAAGAGGATTTTCCTGAAACAGGACGGAAGTCCTGT  2280
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2280
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2280
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2340
+Mafa-KIR3DSW20*001:01:01CAGATAGTGTCTCATAAACTACGAAGGGGGGACCCTGGGGTACTCGGCTCACACTTCTGA  2340
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2340
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2340
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2400
+Mafa-KIR3DSW20*001:01:01CTTCGTCCTCTCTGGCCTTTCTTACCCTTGGCTGAGTCAAGCTCTGTGAAGACCGGGGTG  2400
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2400
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2400
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2460
+Mafa-KIR3DSW20*001:01:01AGATTGGAGTGCTCCAAGCTGAGGTGTGCAGGGAGGAAGTGGTGTCAGCGACTGAGGAAG  2460
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2460
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2460
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2520
+Mafa-KIR3DSW20*001:01:01GGAGGGAAGCAGTGCTAGGAACAGCAGGTCCTCTGAGGACAAAGGTGTAACTCACACCCT  2520
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2520
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2520
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2580
+Mafa-KIR3DSW20*001:01:01CCAGTGTTTGCATGACGGTCAGGGCTGCAGTGTGGCTGCTGTCATTCTACCAGAAGAGGT  2580
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2580
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2580
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2640
+Mafa-KIR3DSW20*001:01:01GGGGAAAACACAGCCATGACCCTGACATTCCAAATCTCTGATAGGGACTCAGTTCATGCA  2640
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2640
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2640
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2700
+Mafa-KIR3DSW20*001:01:01CTGGCTGATATTCCATTCACAAAGGACATGCCCTCCCTAACGTGTCTACTTTATGTTGTT  2700
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2700
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2700
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2760
+Mafa-KIR3DSW20*001:01:01TTATGTGAGTAATCTTGAAGTGTTAAAATCTAGTAAGAGTCCCTTATTCAGCACTTGTTC  2760
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2760
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2760
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2820
+Mafa-KIR3DSW20*001:01:01AAAGTTCTCAGTTGACACCTTTGTTGTAGGGAGACGCCATGTCTATGTGGGATGGGTTCT  2820
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2820
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2820
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2880
+Mafa-KIR3DSW20*001:01:01TCCTCTAGCCCTGGACACCCCCGTGTGGTAGGAGCCTTAGAAACATGGAAAGGGGAAGAA  2880
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2880
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2880
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  2940
+Mafa-KIR3DSW20*001:01:01TCTTCTGAGCACACGGAGGGAGGGGAGGCTCCACATCCTCCTCTCTAAGGCGGCACCTGC  2940
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  2940
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  2940
+
+Mafa-KIR3DSW20*002    -----------GTGGTCAGGACAAGACCTTCCTATCTGTCCAGCCCAGCGCTCTGGTGCC  3000
+Mafa-KIR3DSW20*001:01:01TTCTCCCCCAGGTGGTCAGGACAAGACCTTCCTATCTGTCCAGCCCAGCGCTCTGGTGCC  3000
+Mafa-KIR3DSW20*003    -----------GTGGTCAGGACAAGACCTTCCTATCTGTCCAGCCCAGCGCTCTGGTGCC  3000
+Mafa-KIR3DSW20*004    -----------GTGGTCAGGACAAGACCTTCCTATCTGTCCAGCCCAGCGCTCTGGTGCC  3000
+
+Mafa-KIR3DSW20*002    TCAGGGAGGACACGTAACTCTTCGGTGTTACTATCGTCGTGGGTTTAACAACTTTACCAA  3060
+Mafa-KIR3DSW20*001:01:01TCAGGGAGGACACGTAACTCTTCGGTGTTACTATCGTCGTGGGTTTAACAACTTTACCAA  3060
+Mafa-KIR3DSW20*003    TCAGGGAGGACACGTAACTCTTCGGTGTTACTATCGTCGTGGGTTTAACAACTTTACCAA  3060
+Mafa-KIR3DSW20*004    TCAGGGAGGACACGTAACTCTTCGGTGTTACTATCGTCGTGGGTTTAACAACTTTACCAA  3060
+
+Mafa-KIR3DSW20*002    CTTCACTCTGTACAAAGACGACAGAAGCCACGTTCCCATCTTCCACAACAGAATATTCCA  3120
+Mafa-KIR3DSW20*001:01:01CTTCACTCTGTACAAAGACGACAGAAGCCACGTTCCCATCTTCCACAACAGAATATTCCA  3120
+Mafa-KIR3DSW20*003    CTTCACTCTGTACAAAGACGACAGAAGCCACGTTCCCATCTTCCACAACAGAATATTCCA  3120
+Mafa-KIR3DSW20*004    CTTCACTCTGTACAAAGACGACAGAAGCCACGTTCCCATCTTCCACAACAGAATATTCCA  3120
+
+Mafa-KIR3DSW20*002    GCAGAGCTTCCTCATGGGCCCTGTGACCCCGGCAGACGCAGGGACCTACAGATGTCGGGG  3180
+Mafa-KIR3DSW20*001:01:01GCAGAGCTTCCTCATGGGCCCTGTGACCCCGGCAGACGCAGGGACCTACAGATGTCGGGG  3180
+Mafa-KIR3DSW20*003    GCAGAGCTTCCTCATGGGCCCTGTGACCCCGGCACACGCAGGGACCTACAGATGTCGGGG  3180
+Mafa-KIR3DSW20*004    GCAGAGCTTCCTCATGGGCCCTGTGACCCCGGCAGACGCAGGGACCTACAGATGTCGGGG  3180
+
+Mafa-KIR3DSW20*002    CTCATACCCGCACTCCCCCACTGAGTGGTCGGCACTCAGTGACCCCCTGGCGATCATGGT  3240
+Mafa-KIR3DSW20*001:01:01CTCATACCCGCACTCCCCCACTGAGTGGTCGGCACTCAGTGACCCCCTGGCGATCATGGT  3240
+Mafa-KIR3DSW20*003    CTCATACCCGCACTCCCCCACTGAGTGGTCGGCACTCAGTGACCCCCTGGCGATCATGGT  3240
+Mafa-KIR3DSW20*004    CTCATACCCGCACTCCCCCACTGAGTGGTCGGCACTCAGTGACCCCCTGGCGATCATGGT  3240
+
+Mafa-KIR3DSW20*002    CACAG-------------------------------------------------------  3300
+Mafa-KIR3DSW20*001:01:01CACAGGTCAGAGGGTTCCTGTCTGGGCTTCTCCTTGTCCCACCTCCTGAATCCCAGAGCT  3300
+Mafa-KIR3DSW20*003    CACAG-------------------------------------------------------  3300
+Mafa-KIR3DSW20*004    CACAG-------------------------------------------------------  3300
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3360
+Mafa-KIR3DSW20*001:01:01TCTGCTGGGGGTGTCCACCAGGGTCCCATCACCCAGGACCTGACTGTCTTTGGGGTAAAG  3360
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3360
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3360
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3420
+Mafa-KIR3DSW20*001:01:01GGGGATTGAATACAGGGAAATGGGTGCTGTGATGGGAAGAATAACTGTCCCCAATATGGT  3420
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3420
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3420
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3480
+Mafa-KIR3DSW20*001:01:01TACATTCTAATCCCTGGAGCCTGTGACTCTTTATGCTATAGGGCAGGGGACAGAAGGGGA  3480
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3480
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3480
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3540
+Mafa-KIR3DSW20*001:01:01AGATGGAGGTCAGGTTGTTGATGAGTTGACCTTGAGATGGGGAGACGGCCTGGACTGTCC  3540
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3540
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3540
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3600
+Mafa-KIR3DSW20*001:01:01CACTGGGCTCAGTGGAATCACAAGGCACCAAACGAGAGGAGGAGGATGAGAAGAGTGGGG  3600
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3600
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3600
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3660
+Mafa-KIR3DSW20*001:01:01ATTAGAGCAGCGTCGTGGGAGAGTCCATCAGCCACTGTGGGCATTGAAGGAGGAGGAAGG  3660
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3660
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3660
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3720
+Mafa-KIR3DSW20*001:01:01CCACGAGCCACAATGGCAGGTGGCCTCCTCGGGCTGGAGAAGTCAAGAGAACCGTTCTGC  3720
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3720
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3720
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3780
+Mafa-KIR3DSW20*001:01:01TGAGTCTCCAGGGGGAACACAGTTCTGTAGACGACTTGATTTTAGCACAGGGAGAACTGG  3780
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3780
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3780
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3840
+Mafa-KIR3DSW20*001:01:01ATCCAATTTCTGACTCTAAAAGTGGAAGGGGTCAGTGTATTCTCTCCTGCCACCATGTTT  3840
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3840
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3840
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3900
+Mafa-KIR3DSW20*001:01:01GGGATAATTTTCTGCAGCAGCAACAGGAAACCAACACAGGAACATGGTCAAGTACAAGTT  3900
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3900
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3900
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  3960
+Mafa-KIR3DSW20*001:01:01AAGAAACCAAACGATAGCCGGGCATGGTGGTGGGCACAAGTAAATCCAGTAACGACTGGA  3960
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  3960
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  3960
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4020
+Mafa-KIR3DSW20*001:01:01TTCAATCGCTTGAATCCGGGAGGCAGAAGTTGCAGTGAGCCAAGACCACACCACTACACT  4020
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4020
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4020
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4080
+Mafa-KIR3DSW20*001:01:01CCAGCCTGGGTGAAAAAGTGACACTCTTGTCTCAAAAATCAATTAATTAATCAATTAATT  4080
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4080
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4080
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4140
+Mafa-KIR3DSW20*001:01:01AAAGAAACCAAACAAGGAGAAGGTTGGCAACCCCGAGATCAGGAAGGGCGGGACGCTGAT  4140
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4140
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4140
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4200
+Mafa-KIR3DSW20*001:01:01GCCACCACCAGGCTCCTTCCACATAGGGAGGGGTCGATGCTCCTCGAACCAGCACCAGGA  4200
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4200
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4200
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4260
+Mafa-KIR3DSW20*001:01:01GCCACCCTGTGGAAGCTGAGGCCATGGAGAAGGCACAGGCATGACAGGAGAGGCTCCCAG  4260
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4260
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4260
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4320
+Mafa-KIR3DSW20*001:01:01TCCCCACCAGGAACAGGGAGTGTGGACACTGGTGCCCGCCTTACTGATCAGTTCATTCCT  4320
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4320
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4320
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4380
+Mafa-KIR3DSW20*001:01:01CCTCCCAGGGACTCCAGTTTGTCCAACAGATTGAACCAGGCTGCTAAGAGCCTGGACATG  4380
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4380
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4380
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4440
+Mafa-KIR3DSW20*001:01:01CAGCCTGCCGTGGTTCCTCTTCCACCCCCACATAGACAGCAGGAAGGAGATTAGTGGGAA  4440
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4440
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4440
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4500
+Mafa-KIR3DSW20*001:01:01ACAGATACAACAGCCTAAGAGATGAGGATGAGCCCAGTGGGAAGGGCGTCCGAGGCTACT  4500
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4500
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4500
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4560
+Mafa-KIR3DSW20*001:01:01AGAGACAGACGGACAGAGAAGAGAGAGGGACACAGATGAAGGAACCTGCACCAGGGGATA  4560
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4560
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4560
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4620
+Mafa-KIR3DSW20*001:01:01AAAGACAGGGAGACACAGAGAGGGAGGAGAGAGACAGACAGCCGGGAGGGGAACCCTCAC  4620
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4620
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4620
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  4680
+Mafa-KIR3DSW20*001:01:01TCATTCCAGGTGCCATGGATATGATGACAAAGGGAGACGCCTTCTAAATCACAACCTCTC  4680
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  4680
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  4680
+
+Mafa-KIR3DSW20*002    -------GAGTCCACAAAAAACCTTCCCTCCTGGCCCTCCGAGGTCCCCTGGTGAAATCA  4740
+Mafa-KIR3DSW20*001:01:01TTTCTAGGAGTCCACAAAAAACCTTCCCTCCTGGCCCTCCGAGGTCCCCTGGTGAAATCA  4740
+Mafa-KIR3DSW20*003    -------GAGTCCACAAAAAACCTTCCCTCCTGGCCCTCCGAGGTCCCCTGGTGAAATCA  4740
+Mafa-KIR3DSW20*004    -------GAGTCCACAAAAAACCTTCCCTCCTGGCCCTCCGAGGTCCCCTGGTGAAATCA  4740
+
+Mafa-KIR3DSW20*002    GGAGAGACGGTCACCCTACAATGTTCTTCAGATATCGTGTTTGAGCACTTCTTTCTGCAC  4800
+Mafa-KIR3DSW20*001:01:01GGAGAGACGGTCACCCTACAATGTTCTTCAGATATCGTGTTTGAGCACTTCTTTCTGCAC  4800
+Mafa-KIR3DSW20*003    GGAGAGACGGTCACCCTACAATGTTCTTCAGATATGGTGTTTGAGCACTTCTTTCTGCAC  4800
+Mafa-KIR3DSW20*004    GGAGAGACGGTCACCCTACAATGTTCTTCAGATATCGTGTTTGAGCACTTCTTTCTGCAC  4800
+
+Mafa-KIR3DSW20*002    AGTGAGGTGACCTTTGAGAAGCCCTTGCACCTTGTTGGAGAGCTCCATGGTGGGGGTTCC  4860
+Mafa-KIR3DSW20*001:01:01AGTGAGGTGACCTTTGAGAAGCCCTTGCACCTTGTTGGAGAGCTCCATGGTGGGGGTTCC  4860
+Mafa-KIR3DSW20*003    AGTGAGGTGACCTTTGAGAAGCCCTTGCACCTTGTTGGAGAGCTCCATGGTGGGGGTTCC  4860
+Mafa-KIR3DSW20*004    AGTGAGGTGACCTTTGAGAAGCCCTTGCACCTTGTTGGAGAGCTCCATGGTGGGGGTTCC  4860
+
+Mafa-KIR3DSW20*002    CAGGCCAACTATTCCATCAATTCCACGACGTCTGACCTTGAAGAGACCTTCAGATGCTAT  4920
+Mafa-KIR3DSW20*001:01:01CAGGCCAACTATTCCATCAATTCCACGACGTCTGACCTTGAAGAGACCTTCAGATGCTAT  4920
+Mafa-KIR3DSW20*003    CAGGCCAACTATTCCATCAATTCCACGACGTCTGACCTTGAAGAGACCTTCAGATGCTAC  4920
+Mafa-KIR3DSW20*004    CAGGCCAACTATTCCATCAATTCCACGACGTCTGACCTTGAAGAGACCTTCAGATGCTAT  4920
+
+Mafa-KIR3DSW20*002    GGTTCTGTCACTCACTCCCCCTATGTGTTGTCAGCTCCCAGTGACCCCCTGAACATCGTG  4980
+Mafa-KIR3DSW20*001:01:01GGTTCTGTCACTCACTCCCCCTATGTGTTGTCAGCTCCCAGTGACCCCCTGAACATCGTG  4980
+Mafa-KIR3DSW20*003    GGTTCTGTCACTCACTCCCCCTATGTGTTGTCAGCTCCCAGTGACCCCCTGAACATCGTG  4980
+Mafa-KIR3DSW20*004    GGTTCTGTCACTCACTCCCCCTATGTGTTGTCAGCTCCCAGTGACCCCCTGAACATCGTG  4980
+
+Mafa-KIR3DSW20*002    ATCACAG-----------------------------------------------------  5040
+Mafa-KIR3DSW20*001:01:01ATCACAGGTGAGAGTGTCCGGACATTCTTCTTATTGTCACTGGGACACAGAGTGAATGAT  5040
+Mafa-KIR3DSW20*003    ATCACAG-----------------------------------------------------  5040
+Mafa-KIR3DSW20*004    ATCACAG-----------------------------------------------------  5040
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5100
+Mafa-KIR3DSW20*001:01:01CCAGGACTTGGAAGCCCCAGGTGCTCATGAGGAAGATGAGTGTGGGATTCTTATGGAGAG  5100
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5100
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5100
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5160
+Mafa-KIR3DSW20*001:01:01AGACTCACTTGGCGAGGTCTGTACCAACAGAGACAGAGAAACAGGAGACACAAGTACAGA  5160
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5160
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5160
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5220
+Mafa-KIR3DSW20*001:01:01CCAGGTGTCATAACAGAGGACAGACACAGGGGCCATACAGGGAGGTAGAAAAGAGAGAAA  5220
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5220
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5220
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5280
+Mafa-KIR3DSW20*001:01:01GAGTTAAAGGGGACACTCAGACAGACAGACATGTCCCAGAGAGAGGCGTCCTTCCGTGCT  5280
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5280
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5280
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5340
+Mafa-KIR3DSW20*001:01:01GACTTTGCTCAGATACCTGGCACAGGTTAGAAGCTTCATTTCTTTGTTACCTCCACAAAG  5340
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5340
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5340
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5400
+Mafa-KIR3DSW20*001:01:01TGTTTCTACCAGGAGAACCCAAGGACACCCACATTTCTGTCCTGAGTCAGCCCCTGTGGC  5400
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5400
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5400
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5460
+Mafa-KIR3DSW20*001:01:01CTCAGACCTTGTGGCACCTACAGATGCCGTGTTTGTTCTGACACCTCTGCCTTCCGTGCA  5460
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5460
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5460
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5520
+Mafa-KIR3DSW20*001:01:01GTGGAGAGTCATCCTCCCAGGATATCGTGGCCCCAGAACACCAACCCCTGTATACTGTGT  5520
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5520
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5520
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5580
+Mafa-KIR3DSW20*001:01:01GTACTTGGGGTCCCCACACTGGATTCTGAGGCTCATATTCCACAGAACCCCACATATGAT  5580
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5580
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5580
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5640
+Mafa-KIR3DSW20*001:01:01AGGACTTCTGAGAGACACAGAGAGAAATCAGGAACATCAAAAAGCAAAGACATAAACACA  5640
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5640
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5640
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5700
+Mafa-KIR3DSW20*001:01:01CAGAGAATGAGCCAGAGGAAGGGGACTGAGAGACTCACAGACACATAAAGAGACAGAAAA  5700
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5700
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5700
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5760
+Mafa-KIR3DSW20*001:01:01GAGGGCAGAGGAGTGGAGAGAATGATGGAAGGGAGGAGAGAAAAGCTCCAAAATCAGAAC  5760
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5760
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5760
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5820
+Mafa-KIR3DSW20*001:01:01CAACCCTGAGGGCGGGGTCACAAAGACAGAGATAGATAAAGATGTGGGGATGGATTGCAG  5820
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5820
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5820
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5880
+Mafa-KIR3DSW20*001:01:01AGATTCCAAATAGAACTAGAGAGACTGAGAGGCAGAGAAAGACAAGGAGATGGAGAGAGA  5880
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5880
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5880
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  5940
+Mafa-KIR3DSW20*001:01:01CAGATGATAGATGGATAGAGAGATATAGATAGATGATAAATAGGTAGATGATAGATAATG  5940
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  5940
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  5940
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6000
+Mafa-KIR3DSW20*001:01:01GATGGGCTATAGATACTTAGATGACGACTGATAGATGATACATAGAGATGATGATGATAG  6000
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6000
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6000
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6060
+Mafa-KIR3DSW20*001:01:01ATAGATAGATAGGTAGATAGATAGATAGATAGATAGATAGATAGATAGATAGATAGACAC  6060
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6060
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6060
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6120
+Mafa-KIR3DSW20*001:01:01ATAGATAGAAACATAGATACGTAGATGATACATAGAGACAGAGAGGCAGACAGAGAGAGA  6120
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6120
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6120
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6180
+Mafa-KIR3DSW20*001:01:01GGGAACACACAGATGATACATAGATATAGATAATAGATAGATGGTGGATAGATAGACAAT  6180
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6180
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6180
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6240
+Mafa-KIR3DSW20*001:01:01TGATAGAGAGATAGACAAATGATACATAGATATAGATTACAGATAGATAATTGATAGATT  6240
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6240
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6240
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6300
+Mafa-KIR3DSW20*001:01:01GACAGGTAGTAGATAGATAGATCGATCGATAGATAATAGATAGAAATGTGCAGAAGGTTA  6300
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6300
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6300
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6360
+Mafa-KIR3DSW20*001:01:01TGAACAAAACAGAAAGTAAGAAACTCAGAATTAAAGAAAAAGGAAGATCACGTCAACAAT  6360
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6360
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6360
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6420
+Mafa-KIR3DSW20*001:01:01CCAAGGAGAGTCAGAGAGAAGAAAACAATACAAAAAGGGAAAACACACCTCGGGCTGGGG  6420
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6420
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6420
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6480
+Mafa-KIR3DSW20*001:01:01AAGTGAGGTCAGAGACCTAGAGAGACAGAGAAGGTGGAAGGAGGAAACAGACATGAAGAG  6480
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6480
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6480
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6540
+Mafa-KIR3DSW20*001:01:01AGACGGGGTGGAGGGTGAGAGACAGAGAGAGCATTAGGTCATAGAGCAGGGGAGTGAGTT  6540
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6540
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6540
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  6600
+Mafa-KIR3DSW20*001:01:01CTCAGCTCAGATGTGAGGGGAGCTGTGACAGGGAAGAACTTCCCTGAAGAAACTGCCCCT  6600
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  6600
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  6600
+
+Mafa-KIR3DSW20*002    -----------GTAAATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCA  6660
+Mafa-KIR3DSW20*001:01:01TCTCCTTCCAGGTAAATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCA  6660
+Mafa-KIR3DSW20*003    -----------GTAAATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCA  6660
+Mafa-KIR3DSW20*004    -----------GTAAATATGAGAAACCTTCTCTCTCAGCCCAGCCGGGCCCCACGGTTCA  6660
+
+Mafa-KIR3DSW20*002    GGCAGGAGAGAACGTGACCTTGTCCTGCAGCTCCCAGATCTCGTTTGACATGTACCATCT  6720
+Mafa-KIR3DSW20*001:01:01GGCAGGAGAGAACGTGACCTTGTCCTGCAGCTCCCAGATCTCGTTTGACATGTACCATCT  6720
+Mafa-KIR3DSW20*003    GGCAGGAGAGAACGTGACCTTGTCCTGCAGCTCCCAGATCTCGTTTGACATGTACCATCT  6720
+Mafa-KIR3DSW20*004    GGCAGGAGAGAACGTGACCTTGTCCTGCAGCTCCCAGATCTCGTTTGACATGTACCATCT  6720
+
+Mafa-KIR3DSW20*002    ATCCAGGGAGGGGGAGGCTCGTGAACTTAGTCTCTCTGCAGTGCCAAGCGTCAATGGAAC  6780
+Mafa-KIR3DSW20*001:01:01ATCCAGGGAGGGGGAGGCCCGTGAACTTAGTCTCTCTGCAGTGCGAAGCGTCAACGGAAC  6780
+Mafa-KIR3DSW20*003    ATCCAGGGAGGGGGAGGCTCGTGAACTTAGTCTCTCTGCAGTGCCAAGCGTCAATGGAAC  6780
+Mafa-KIR3DSW20*004    ATCCAGGGAGGGGGAGGCCCGTGAACTTAGTCTCTCTGCAGTGCGAAGCGTCAACGGAAC  6780
+
+Mafa-KIR3DSW20*002    ATTCCAGGCCGACTTCCCTCTGGGCCCTGCCACCCACGGAGGAACCTACAGATGCTTCGG  6840
+Mafa-KIR3DSW20*001:01:01ATTCCAGGGCGACTTCCCTCTGGGCCCTGCCACCCATGGAGGAACCTACAGATGCTTCGG  6840
+Mafa-KIR3DSW20*003    ATTCCAGGCCGACTTCCCTCTGGGCCCTGCCACCCACGGAGGAACCTACAGATGCTTCGG  6840
+Mafa-KIR3DSW20*004    ATTCCAGGGCGACTTCCCTCTGGGCCCTGCCACCCATGGAGGAACCTACAGATGCTTCGG  6840
+
+Mafa-KIR3DSW20*002    TTCTTTCCGTACCACACCCTACAAGTGGTCAGACCCGAGTGACCCACTGCCCGTTTCTGT  6900
+Mafa-KIR3DSW20*001:01:01TTCTTTCCGTACCGCACCCTACAAGTGGTCACACCCGAGTGACCCACTGCCCGTTTCTGT  6900
+Mafa-KIR3DSW20*003    TTCTTTCCGTACCATACCCTACAAGTGGTCAGACCCGAGTGACCCACTGCCCGTTTCTGT  6900
+Mafa-KIR3DSW20*004    TTCTTTCCGTACCGCACCCTACAAGTGGTCAGACCCGAGTGACCCACTGCCCGTTTCTGT  6900
+
+Mafa-KIR3DSW20*002    CACAG-------------------------------------------------------  6960
+Mafa-KIR3DSW20*001:01:01CACAGGTGAGGAAAGCACATGCCTGTCCCATGTCTTATGATCCCAGAGCCATAGCTGAGG  6960
+Mafa-KIR3DSW20*003    CACAG-------------------------------------------------------  6960
+Mafa-KIR3DSW20*004    CACAG-------------------------------------------------------  6960
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7020
+Mafa-KIR3DSW20*001:01:01AACTTCCTGCTGATGATGGAGAGAAGCATGGACAGGTTCAGAGAGAAGATCAAGCCTCGG  7020
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7020
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7020
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7080
+Mafa-KIR3DSW20*001:01:01TGTGAGGGTGGGATCAGGAGGCAGGATGGCAGAGAGGGCACCTCCAAACCCTCCTGCATG  7080
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7080
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7080
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7140
+Mafa-KIR3DSW20*001:01:01GCCTGCGTGGTGGTCCGTGGTCAGGGCTCCAGGCACCCAGGCAGATGGAGAAACTGGTCA  7140
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7140
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7140
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7200
+Mafa-KIR3DSW20*001:01:01GGACAGACCCAGAGGAGGGAGACTGGGCTCAGTTTGGGGAGATCAGAGGTTCCCTCAGCC  7200
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7200
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7200
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7260
+Mafa-KIR3DSW20*001:01:01CCTCAATCTTACTCATTTCCCGGAAGCCCATCCTGGCCTCTCACCCACAGACATATCATC  7260
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7260
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7260
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7320
+Mafa-KIR3DSW20*001:01:01ACCAGCAACCCTTACACCCTTTTCTTTTCATTTGAAAAAATATTTGTTGAGGTTAAAAAT  7320
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7320
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7320
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7380
+Mafa-KIR3DSW20*001:01:01ACCTACAAAATTGACCACCTTTACTGTTTTTAAGTGTAAAGTCTAGTGGTCATAAATACA  7380
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7380
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7380
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7440
+Mafa-KIR3DSW20*001:01:01TTTATATTCTGTTTTTGGTTTGTTTTTTGTTTTGTGTTGTTTTTACCCTCCACCATTCCC  7440
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7440
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7440
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7500
+Mafa-KIR3DSW20*001:01:01TTCCTGGCCTCTGGTAGCCACCATTCTACTCTCTACCTTCTTGAGATCCACTTTAGAGCT  7500
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7500
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7500
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7560
+Mafa-KIR3DSW20*001:01:01CTTGCATAAGGGTGAGAATTGGGAATTTTTGTAATGAGCTCCAGTTCCAATCATGGGCTG  7560
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7560
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7560
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7620
+Mafa-KIR3DSW20*001:01:01CAAATGTCGGATGTTATTTTCTCTATGGATGACTAGTCTCCACTGTGTGTATGTACTACA  7620
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7620
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7620
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7680
+Mafa-KIR3DSW20*001:01:01TTCTCTCTATCCGTTCATCCACTGATGGGCAGGTAGCTGGACTCCACATCTTGGCTACTG  7680
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7680
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7680
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7740
+Mafa-KIR3DSW20*001:01:01TGAACTGTGCTGGAACAGTCATGGGAGTGCAGATAGAACTTCCATACACTGAAGTCCTTT  7740
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7740
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7740
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7800
+Mafa-KIR3DSW20*001:01:01CTATTGGATGTAAACCCAGTAGTGAATTTGTGAATACTATGAAAATTCTCTTTTTAGTCT  7800
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7800
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7800
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7860
+Mafa-KIR3DSW20*001:01:01TTTGTTTGGTTTTTGTTTTTGAGGCAGAGCTTTCCTCTGTAGCCCAGGCTGGAGTGCAAC  7860
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7860
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7860
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7920
+Mafa-KIR3DSW20*001:01:01TGACACAATCTAGGCTCAGTGCAACTGACACAATCTAGGCTCATTGCAACCTCCTGGGAG  7920
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7920
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7920
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  7980
+Mafa-KIR3DSW20*001:01:01GCAGAGGTCTCCTGGATTCAAATGATTCTTCTGCCTCAGTCTCCCTGGGAGCTGGGATTA  7980
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  7980
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  7980
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8040
+Mafa-KIR3DSW20*001:01:01CAGGTGTACGCCACAACGCCTAGCTACGTTTTGTATTTTTTAGTACAAACAGGGTTTCCC  8040
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8040
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8040
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8100
+Mafa-KIR3DSW20*001:01:01CATATTGGCCAGGCTGCTCTCATACTCCTGACCTCAAAGTGCTGGGATTACAAGCATGAG  8100
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8100
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8100
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8160
+Mafa-KIR3DSW20*001:01:01CCACCATGCCCAGCCTCTTTTTAGTTTCTTAAAGAAGTTCCATACTTTTCTGCATAATGG  8160
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8160
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8160
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8220
+Mafa-KIR3DSW20*001:01:01CTGTACTAATTTACCTTCCTACCAACAGGGTACCAGGGTTCTCCTTTTCCTACCATCTTG  8220
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8220
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8220
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8280
+Mafa-KIR3DSW20*001:01:01CCAGCATTTGTTTTGCTTGTCATATGGATAAAAGCCATTTTAATGGGGTGAGATGTAAAT  8280
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8280
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8280
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8340
+Mafa-KIR3DSW20*001:01:01TCATTGTGATTTTTCATTTGTATTCCTCTGATGATGAGAGATACTGAACACTTTCATACA  8340
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8340
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8340
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8400
+Mafa-KIR3DSW20*001:01:01CATGATGGCCATTTATATGTTTTATTTGTGGAGAAATGTCTGTTCAGGTCTTTTGTTCAT  8400
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8400
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8400
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8460
+Mafa-KIR3DSW20*001:01:01TTTTTAATTAAATTCTTTGTTTTATTGAGTTATGTGAGCTTCTTATATTTCCAGTTATAA  8460
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8460
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8460
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8520
+Mafa-KIR3DSW20*001:01:01ATCCCGTCTCAGATGCATAGTCTGCAAATATTTCCTCCCATTCTGTGGGTTGTCTCTTCA  8520
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8520
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8520
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8580
+Mafa-KIR3DSW20*001:01:01CTTTGTTGGTTGCTTGTTTTGCAATGCAGAAGCTGCTTAGTTTGATGTAATCCCTGTGGT  8580
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8580
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8580
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8640
+Mafa-KIR3DSW20*001:01:01CTGCTTTTTACTTTGATTACTTGTGTTTCTGAGGTTTTAAACAAAATGTCTTTTCTCAGA  8640
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8640
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8640
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8700
+Mafa-KIR3DSW20*001:01:01CAAATGTCCTGAAGCATTTCCCCAATATTTTCTTCTATGTGTTTCATAGGTTCAGGACTT  8700
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8700
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8700
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8760
+Mafa-KIR3DSW20*001:01:01AGACTCATGTATTTAATGCTTTTTGATTTCACTTTTGTGAATGGTGAGAGGTAGAGGTGC  8760
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8760
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8760
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8820
+Mafa-KIR3DSW20*001:01:01AGTTTCATTCCCTGCATGCAGATAACCCGTTTTCCCCGCATCGTTTATTGAAAAGACTGT  8820
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8820
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8820
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8880
+Mafa-KIR3DSW20*001:01:01CCTTTCCTGATTGTAGGTTCTTGGTACCTTTGTCAAAATGCATTGGATTGGCTGGGCATG  8880
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8880
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8880
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  8940
+Mafa-KIR3DSW20*001:01:01GTGTCTCACACCTGCAGTCCCAGCACTGTCAGAGGCCAAGGTGGGTGGATCACCTGAGAC  8940
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  8940
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  8940
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9000
+Mafa-KIR3DSW20*001:01:01CAGGAGTTCGAGGCCCGCCTGGCCAACATAGTAAACCCTGTCTCCACTAAAAGTACAAAA  9000
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9000
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9000
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9060
+Mafa-KIR3DSW20*001:01:01ATTAGCTGAGCATGGTGGTCAGCGCCTGTAATACCACTACTTGAGAGTCTGAGGCAAGAA  9060
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9060
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9060
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9120
+Mafa-KIR3DSW20*001:01:01AATTGCTTGAATTCAGGAGACAGAGGTTGCTGTGAGCCGAGATTGCACCTCTGCACTCCA  9120
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9120
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9120
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9180
+Mafa-KIR3DSW20*001:01:01GCCTGAGTAACAGAGCAAGATTCCATCTCAAAAAAAAAAAAGAAAAAATGCCATTGAATG  9180
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9180
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9180
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9240
+Mafa-KIR3DSW20*001:01:01TAGATGCATAGATTATATCTGTGTTCTTCATTTTGCTCCGTTGTTCTACACACTTTTCTT  9240
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9240
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9240
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9300
+Mafa-KIR3DSW20*001:01:01CATGCCAACGTCATGCTGTTTTGCTTACTACAGCTCTGTAACATATCTTTAAGTCAGGTA  9300
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9300
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9300
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9360
+Mafa-KIR3DSW20*001:01:01ATGTGATGTTCCTGTTTTCTCTATATATCTTAAAGTCTCAAGACAAGGGGCAACACATAC  9360
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9360
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9360
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9420
+Mafa-KIR3DSW20*001:01:01AAAAATCGCGGAGAAGAGAATCCCAGGACTCCCAGAGCCAGTGTTGGATAACAGAGTGTT  9420
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9420
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9420
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9480
+Mafa-KIR3DSW20*001:01:01GGCCATGAATGAACCTCAAAGATTTCCCCTGAGTAGAGGACAGGCACCCTCATTTCCTCA  9480
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9480
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9480
+
+Mafa-KIR3DSW20*002    -----------------------GAAACCCTTCAAGTAGTTGGCCTTCACCCACTGAACC  9540
+Mafa-KIR3DSW20*001:01:01CCTCTCTCCTGTCTCTAATCTAGGAAACCCTTCAAGTAGTTGGCCTTCACCCACTGAACC  9540
+Mafa-KIR3DSW20*003    -----------------------GAAACCCTTCAAGTAGTTGGCCTTCACCCACTGAACC  9540
+Mafa-KIR3DSW20*004    -----------------------GAAACCCTTCAAGTAGTTGGCCTTCACCCACTGAACC  9540
+
+Mafa-KIR3DSW20*002    AAGCTGCAAAACCA----------------------------------------------  9600
+Mafa-KIR3DSW20*001:01:01AAGCTGCAAAACCGGTGAGTAAAGAATCCCTCTAATCTCTACTTTTGGAAACCTGGAGAG  9600
+Mafa-KIR3DSW20*003    AAGCTGCAAAACCA----------------------------------------------  9600
+Mafa-KIR3DSW20*004    AAGCTGCAAAACCG----------------------------------------------  9600
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9660
+Mafa-KIR3DSW20*001:01:01GTGGAAGCCTTGGATTCAAGCCTTGGCTCAGCACCTCCCAGCTCTGATTGTGGGCCTGTC  9660
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9660
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9660
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9720
+Mafa-KIR3DSW20*001:01:01TTCCACCATCTCTCTGAACTCCAGACACTCCAACAGCAAAAGGGATCTTGGCCCAGCACA  9720
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9720
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9720
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9780
+Mafa-KIR3DSW20*001:01:01GGGCTCAGTGAAGTCTCTTAATCTCTAATCTTCTGCAGCTGAGACCTCCTACATGCTGGA  9780
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9780
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9780
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9840
+Mafa-KIR3DSW20*001:01:01AGAATGATTGCAAATCTGACATCCTTCTCAGGAAAAATGCAGTGTTTGTTCTCCCTGCAT  9840
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9840
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9840
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9900
+Mafa-KIR3DSW20*001:01:01TCCTAACTGGAGGATAAATTCCTGGGGGCTTGAAAGAGGGAAGGGAAGGGAACATCTAAT  9900
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9900
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9900
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------  9960
+Mafa-KIR3DSW20*001:01:01GAGGGCGAGGTGTTTCCGAGAAGTTCCACTTGCCAAGGAATGAGCTCCTGTTGGTCATGA  9960
+Mafa-KIR3DSW20*003    ------------------------------------------------------------  9960
+Mafa-KIR3DSW20*004    ------------------------------------------------------------  9960
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10020
+Mafa-KIR3DSW20*001:01:01GGCAACCCTGGCTGACTCAGCAGAGCAAGAGCCTCGAGTAACAGAGAACAGAGCTCATGC 10020
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10020
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10020
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10080
+Mafa-KIR3DSW20*001:01:01ACGCACACTTCGACTCACTGACTCATTCAGCCATGGCCCCATGCTCAGGCTGTGCAGTTG 10080
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10080
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10080
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10140
+Mafa-KIR3DSW20*001:01:01GAATCCTTTCCTACTGTTGCCATAACAAATTTCCACAAAATTGGTGGATGAAAACAAAAC 10140
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10140
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10140
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10200
+Mafa-KIR3DSW20*001:01:01GGCTTTTTAATTATCTTACAGTGCTGTAGCTCAAAGGATGAAATGCACCTCACTGGGCTA 10200
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10200
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10200
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10260
+Mafa-KIR3DSW20*001:01:01AAATCAAGGTGACAGCAAGGCTGCCTTCCCTCTGAAGGTTCCAGGCAAGAATCTGCTTTC 10260
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10260
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10260
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10320
+Mafa-KIR3DSW20*001:01:01CACATGTCCCAGTTTCTAGAGGTTCCCACGTTCCTTGGCTCCTGGTCCCCTTCCTCCTTC 10320
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10320
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10320
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10380
+Mafa-KIR3DSW20*001:01:01CTCAAAACCCACAAAGACTGGTCACGTCTCACATGGCATCACTCAGACCCTTCTTCCTTA 10380
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10380
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10380
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10440
+Mafa-KIR3DSW20*001:01:01TCCACGCCTCTTTCTCTGAATGTTCCTCTGCTTTCTTCCTCATTTCTTAAGGACTTTGGG 10440
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10440
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10440
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10500
+Mafa-KIR3DSW20*001:01:01ATTTTATTGGGTTCACCAAGATTATCTATCATCATCTCCCTAATATCATCCAGGATACCC 10500
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10500
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10500
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10560
+Mafa-KIR3DSW20*001:01:01TCCTTTTCATTTCAGCTGATTAGCAACCGTAATTCCATCTGAAATCTTCATTCCTCTTTT 10560
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10560
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10560
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10620
+Mafa-KIR3DSW20*001:01:01TCACGTAAAATCACATGTTCACAAGGTATGAAGGCTAGGACAGGGATATTTTTGGGGTGG 10620
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10620
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10620
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10680
+Mafa-KIR3DSW20*001:01:01AGTGGATTCTCCTGCCTTCCACAAATAGTAAACAGGATGCATTTGGCCTGTGCTCTTGGG 10680
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10680
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10680
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10740
+Mafa-KIR3DSW20*001:01:01ACACTGACGTTGCAGATGGGTAAATGAGAGAAAAGAAAATGAATGCACAAGTGGATCAAT 10740
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10740
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10740
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10800
+Mafa-KIR3DSW20*001:01:01AAATGGCTGATCCATTGGGAAACATTATGTATTTATTAAGACGGAGTCTCGCTCTATCCC 10800
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10800
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10800
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10860
+Mafa-KIR3DSW20*001:01:01CTAGGCTGGAGTGCAGCGTCACGATCTTGGCTCACTGCAACCTCCGCCTCCTGGGTTCAA 10860
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10860
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10860
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10920
+Mafa-KIR3DSW20*001:01:01GTGATTCTTCTGCCTCAGCCTCTCAAGTAGCTTGGATACAGGCCCCCGCCGCCACACCTG 10920
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10920
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10920
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 10980
+Mafa-KIR3DSW20*001:01:01GCTAATTCTTTTTGTAGTTTTTTGGTAGAGACGATGTTTCACCATGTGGCCCAGTCTATC 10980
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 10980
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 10980
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11040
+Mafa-KIR3DSW20*001:01:01TCCAACTCCCTATCTAAAGTAATCCGACCGTCTCAGCCTCCCAAAGTGCTCGGATTATAG 11040
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11040
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11040
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11100
+Mafa-KIR3DSW20*001:01:01GCGTGAACCACGGCACCCAGCCAGAATTTAAACTAAATAACAGATAATGCTGAGTGTATG 11100
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11100
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11100
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11160
+Mafa-KIR3DSW20*001:01:01ATTTCAGGTCACAGAGAAGTTCTCACTGATCAAATAATACTTGTGATCTTAACGAAAAAA 11160
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11160
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11160
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11220
+Mafa-KIR3DSW20*001:01:01AATAGATCAACCCCTGGAAGACTGGCGGAAGGATTTTCCACACATAGCAGTCAGCCGTGA 11220
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11220
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11220
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11280
+Mafa-KIR3DSW20*001:01:01AGGCACAAAGGTGAAAACAATCTTATGTGGAAGGAAGAGGCTCTGCCTGAAGTGCTGGGA 11280
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11280
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11280
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11340
+Mafa-KIR3DSW20*001:01:01ATGAGATGGGAGAATTACAAGACCGCTGGAGAGAGAGAAGAGCACACTGGGCACACAGGA 11340
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11340
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11340
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11400
+Mafa-KIR3DSW20*001:01:01AACTAAGGAGGACAAGGAGTGTGTGTTTTATACGCACAGCCCTTGGATTCACCTCGGGCA 11400
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11400
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11400
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11460
+Mafa-KIR3DSW20*001:01:01AACTAGGAATCCGTACATGATTAATAGTGACTGACATGAACATAAGGGAGGCCCAGATGC 11460
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11460
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11460
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11520
+Mafa-KIR3DSW20*001:01:01GTAACTGGAATCTAGGAGATCGTGGAAAAGGCGATTCCCGCCCCACTGGTGAAATGTGTT 11520
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11520
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11520
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11580
+Mafa-KIR3DSW20*001:01:01GGGTATTTAGACACTAAATGAATGAAGTAGATGGATATAAGATGTGTATGTGAGGTAGAA 11580
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11580
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11580
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11640
+Mafa-KIR3DSW20*001:01:01TAATTCACAGGGAGGGCTTGCCTGGTTTGATTTTTCCTAATTGTTCAATCTTCACTTCAT 11640
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11640
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11640
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11700
+Mafa-KIR3DSW20*001:01:01TAATTTCTTTCTGAGATTTATTTTTCCTACATGTAAATCAGTACCTGGCAGAGGTCTGAT 11700
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11700
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11700
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11760
+Mafa-KIR3DSW20*001:01:01TGATACATGAGGCGTGGTGCAAAGGAATAGACTTATTAATATAACACGCAAGGTTGTGAA 11760
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11760
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11760
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11820
+Mafa-KIR3DSW20*001:01:01CGGTGACTCACACCTGTAACCCAACATTTTGGGAGGCTGAGGCGGATGGATCCATTGAGG 11820
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11820
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11820
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11880
+Mafa-KIR3DSW20*001:01:01TCAGGAGTTCAAGACCAGCCCGGACAACATGCTCAAACCCAACTCTACTAAATAAACAAA 11880
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11880
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11880
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 11940
+Mafa-KIR3DSW20*001:01:01AACTAGCTGGGCATGGTGGCGGGTGCCTGTAATACCAGCTATTCGGGAGGCTGAAGCCGG 11940
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 11940
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 11940
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12000
+Mafa-KIR3DSW20*001:01:01AGAATGGCTTCCACCCGGGAGGCAGAGGTTTCAGTGAGCCGAGATTGCATCATTGGACTA 12000
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12000
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12000
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12060
+Mafa-KIR3DSW20*001:01:01CACCCTGGGCAACACATTGAGACTTCATCTCAAAAAATAAAAGTACAAAACACATAATTG 12060
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12060
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12060
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12120
+Mafa-KIR3DSW20*001:01:01TCATATAACATACAGAAATGACAAAGGCACTTCAATCCCAATTATCATTTTTCTATTTCT 12120
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12120
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12120
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12180
+Mafa-KIR3DSW20*001:01:01CTATAACGACTTCTTTGATCCTTTATCTTATCCATTAGAAAATCAGCCAAAAACGTCTTC 12180
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12180
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12180
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12240
+Mafa-KIR3DSW20*001:01:01CCTGTTTGCTTTCCATGAGCCTGAGATCATATGGAAAATATGAAAGGCCCCCGAACCCAC 12240
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12240
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12240
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12300
+Mafa-KIR3DSW20*001:01:01CAGCACAGGCCCTGGAATAGAGAAAGTTCTCTGTTCATGGCATAAAACTTGCCCCCTCAC 12300
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12300
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12300
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12360
+Mafa-KIR3DSW20*001:01:01CCAAATCCCCCACCTCACCCTTACTCCCTATCACATTAAGAGACACAGATAGGCCATGGG 12360
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12360
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12360
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12420
+Mafa-KIR3DSW20*001:01:01AAGGTAAAAACTAACATTCTTTGGAGCTCAGACCTTGGACTCAGAGACCAGCACCAGCAC 12420
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12420
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12420
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12480
+Mafa-KIR3DSW20*001:01:01CATCTCCTGGTTACCTTTTGTACGAATTCACAGGACAGGTTGTACCGAAGCAATAGATGA 12480
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12480
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12480
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12540
+Mafa-KIR3DSW20*001:01:01TGGAGGGGGTTGTCCTTCCTCCGGACTCTCAGGTAGAACAGCAGCCTAATATATGACTCC 12540
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12540
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12540
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12600
+Mafa-KIR3DSW20*001:01:01TGAGATCACAAAAAGGAGCACGTTCTTCACGAGCTTCATCATTATTTCCTGGCTGTTGGA 12600
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12600
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12600
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12660
+Mafa-KIR3DSW20*001:01:01TATATGACAGTTCTACTTCACTATTCTGATCTTGATTTCACTTTATGCCTTTTCTTCCTG 12660
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12660
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12660
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12720
+Mafa-KIR3DSW20*001:01:01AATGTAATGTGTTTGAGTCAAGAGGGTTCTGGCCGTAGAAATTGTAAAGCACATTCACTG 12720
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12720
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12720
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12780
+Mafa-KIR3DSW20*001:01:01TGTATCAATCCCAGTCCAGTCTTCCCAGAGAAGACTCTAAACACCTCCTGTACTGCACCT 12780
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12780
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12780
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12840
+Mafa-KIR3DSW20*001:01:01GGGGCTCTGCCAGTTTCTGTCACTCACCGTCACTCCAGGGAGACAGAACGCACAGAGAAT 12840
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12840
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12840
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12900
+Mafa-KIR3DSW20*001:01:01ACATGACATAGGCAGGTTCATTACTAACGGATAACCAGCAAGTGACAACAGAAGCCTGCA 12900
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12900
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12900
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 12960
+Mafa-KIR3DSW20*001:01:01TTTCAGTGTGAGCCAGTCCCCCAAGGCTCAGAAAAGCTGCTCGGGACATATGGAGTCACC 12960
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 12960
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 12960
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13020
+Mafa-KIR3DSW20*001:01:01CCATTTGCACTGCAGCTGGGGGAACCCAGAAAGCAGCCCAGCCTGGGTTTTGTACCCTGG 13020
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13020
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13020
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13080
+Mafa-KIR3DSW20*001:01:01AGCCACAGGAAGCACTGAGCTAAAGCACTGCATGACGTCTTCCTCTGGGAAGAACAGGAA 13080
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13080
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13080
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13140
+Mafa-KIR3DSW20*001:01:01GACAGCCCAGGCTGTTCTGGGACGTTCCTCCTGATCTCAGGATGTTGCCGTCTTAGTCCC 13140
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13140
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13140
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13200
+Mafa-KIR3DSW20*001:01:01TTTTTGAGGCTGTGAAAGAACACTTGAGCCTGGGTAACTTCTACAGAAAGAAAATTGGTT 13200
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13200
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13200
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13260
+Mafa-KIR3DSW20*001:01:01GACTCACGGTTCTGCAAGGTGTACAAGAGGCAGGACACCAGCATCTCTTTCTGGCTGTGG 13260
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13260
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13260
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13320
+Mafa-KIR3DSW20*001:01:01CCTCAGGCTGCTCCTACTCTGGTAGAAGAGACGGGGGCCTACATGTGCAGAGACCACCGA 13320
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13320
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13320
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13380
+Mafa-KIR3DSW20*001:01:01GATCACACAGCAAGACAGGGAGAAACGGGGTGTGATGGAGCTTCCAAGCTCTTTTTAAGA 13380
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13380
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13380
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13440
+Mafa-KIR3DSW20*001:01:01ACCAACTCTCCAGAGTACTACTAGAGGGAGAACGTGCTAACCCTGTCGTGTGGGGCAGCA 13440
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13440
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13440
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13500
+Mafa-KIR3DSW20*001:01:01TTAATCTATTCATGATGGATCCACCCCCATCATCCAAACACCTCCCGATTGGCCCAACCT 13500
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13500
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13500
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13560
+Mafa-KIR3DSW20*001:01:01CCCACACTCAGGGTTAAATTTCAAAGTGAAGCTTCGGGGGGTCAAATATCCATACGATAG 13560
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13560
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13560
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13620
+Mafa-KIR3DSW20*001:01:01CAGGTGTCTCATCGGCACATTCCGTGGTTATTATGAAAACTATAACTGAGAAACCAGGAG 13620
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13620
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13620
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13680
+Mafa-KIR3DSW20*001:01:01AAAGCTGGGTCTCCCACCACGTGGGTGCTTGTCCTAAAGAGATGTTTTATGGGGTTGCCT 13680
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13680
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13680
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13740
+Mafa-KIR3DSW20*001:01:01GGCAACCAAGAAATGAGAGACAATCCTCAAAGAGGAACTGCTATGGTGAGCTTCTCATTG 13740
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13740
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13740
+
+Mafa-KIR3DSW20*002    -------------------GTATCACCAGACACCTGCCTATTGTGATTAGGTACTCGGTG 13800
+Mafa-KIR3DSW20*001:01:01GATTTCCATCTTCCTCCAGGTATCACCAGACACCTGCCTATTGTGATTAGGTACTCGGTG 13800
+Mafa-KIR3DSW20*003    -------------------GTATCACCAGACACCTGCCTATTGTGATTAGGTACTCGGTG 13800
+Mafa-KIR3DSW20*004    -------------------GTATCACCAGACACCTGCCTATTGTGATTAGGTACTCGGTG 13800
+
+Mafa-KIR3DSW20*002    GCCACCATCATCTTCACCATCCTCCTCTTCTTTCTCCTTCGTCGTTGGTGCTCCGACAAA 13860
+Mafa-KIR3DSW20*001:01:01GCCACCATCATCTTCACCATCCTCCTCTTCTTTCTCCTTCATCGTTGGTGCTCCGACAAA 13860
+Mafa-KIR3DSW20*003    GCCACCATCATCTTCACCATCCTCCTCTTCTTTCTCCTTCGTCGTTGGTGCTCCGACAAA 13860
+Mafa-KIR3DSW20*004    GCCACCATCATCTTCACCATCCTCCTCTTCTTTCTCCTTCATCGTTGGTGCTCCGACAAA 13860
+
+Mafa-KIR3DSW20*002    AAGA-------------------------------------------------------- 13920
+Mafa-KIR3DSW20*001:01:01AAGAGTAAGTCTCACAAAGCAGAGGCCAGAGACCTCAGGGCCGTGTGGGGAGGGAGGATG 13920
+Mafa-KIR3DSW20*003    AAGA-------------------------------------------------------- 13920
+Mafa-KIR3DSW20*004    AAGA-------------------------------------------------------- 13920
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 13980
+Mafa-KIR3DSW20*001:01:01AGGAGGGATGGGAGCACGCAGGTGTGTGTTTCTCACCGGCAGGATGGTCTCTGGCCCAAG 13980
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 13980
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 13980
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 14040
+Mafa-KIR3DSW20*001:01:01GCAGGAGCCACAGAGGCAGAGCTTTCTAGAGAGAGCACCAGACACCCTGTCCCTGCCTTC 14040
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 14040
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 14040
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 14100
+Mafa-KIR3DSW20*001:01:01AGCTCACAGACTATTGCTTGATTCTGAACTGTATCCTCATGTCCCTGCAGCCACTGACAT 14100
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 14100
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 14100
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 14160
+Mafa-KIR3DSW20*001:01:01CCAGGAGAAGGTTCCATGACAGGCAGAAAGTGGGAGGCAGAATCACTGGGATGGGAACTG 14160
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 14160
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 14160
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 14220
+Mafa-KIR3DSW20*001:01:01ACAGCTCTTCATGGGATGGGCCTTGCACTCAGAGAGACAGAATGTCTGAGTCTGGCTGTT 14220
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 14220
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 14220
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 14280
+Mafa-KIR3DSW20*001:01:01GGCAGCTGAGGGACCTCAGGCACCTACAGCCTCCCCCTGTGTGTTGGTATGTGCACATGA 14280
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 14280
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 14280
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 14340
+Mafa-KIR3DSW20*001:01:01AATGAGGACCCAGACGTGCCCTCCCAGCTGTTTTGATGACTTCCGTCTCCTACAGATGCT 14340
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 14340
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 14340
+
+Mafa-KIR3DSW20*002    ------------------------------------------------------------ 14400
+Mafa-KIR3DSW20*001:01:01GCTGTAATGGACCAAGAGCCTGCTGGGGACAGAACAATGAACAGGGAGATAGCCTCATGG 14400
+Mafa-KIR3DSW20*003    ------------------------------------------------------------ 14400
+Mafa-KIR3DSW20*004    ------------------------------------------------------------ 14400
+
+Mafa-KIR3DSW20*002    ------ 14406
+Mafa-KIR3DSW20*001:01:01TTATAG 14406
+Mafa-KIR3DSW20*003    ------ 14406
+Mafa-KIR3DSW20*004    ------ 14406
 
