@@ -2,7 +2,7 @@
  IPD-NHKIR Database
 --------------------------------------------------------------------------------
 
-This directory contains data for the IPD-NHKIR database. The IPD-NHKIR database is a specialist sequence database for sequences of the non-human major histocompatibility complex. This directory contains the IPD-MHC flat files and documentation. 
+This directory contains data for the IPD-NHKIR database. The IPD-NHKIR database is a specialist sequence database for sequences of the non-human major histocompatibility complex. This directory contains the IPD-NHKIR flat files and documentation. 
 
 --------------------------------------------------------------------------------
 Downloading and Cloning This Repository 
@@ -43,12 +43,13 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-Robinson J, Halliwell JA, Hayhurst JH, Flicek P, Parham P, Marsh SGE:
-The IPD and IPD-MHC Database: allele variant databases
-Nucleic Acids Research (2015), 43:D423-431
+Robinson J, Guethlein LA, Maccari G, Blokhuis J, Bimber BN, de Groot NG, 
+Sanderson ND, Abi-Rached L, Walter L, Bontrop RE, Hammond JA, Marsh SGE, Parham P.:
+Nomenclature for the KIR of non-human species. 
+Immunogenetics. 2018 Sep;70(9):571-583.
 
 We are strongly opposed to the mirroring of the data contained on our sites, both
-hla.alleles.org and the IPD-MHC Database, and would ask that rather than mirror
+hla.alleles.org and the IPD-NHKIR Database, and would ask that rather than mirror
 the information, appropriate links are provided where applicable.
 
 If you intend to distribute a modified version of our data, you must ask us for
